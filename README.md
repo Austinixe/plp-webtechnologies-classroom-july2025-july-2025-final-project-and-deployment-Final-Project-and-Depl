@@ -88,3 +88,50 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+
+---
+
+# Student Submission - Augustine Salami
+
+## 📌 Project Overview
+This project is a multipage responsive website created as part of the Week 8 Web Technologies Assignment.  
+The goal of the project is to demonstrate skills in **HTML5**, **CSS3**, **JavaScript**, and **website deployment**.
+
+The website contains the following pages:
+- **Home Page** (`index.html`)
+- **About Page** (`about.html`)
+- **Projects Page** (`projects.html`)
+- **Services Page** (`services.html`)
+- **Contact Page** (`contact.html`)
+
+---
+
+## 🎨 Features
+- ✅ Responsive design (works on mobile, tablet, and desktop)  
+- ✅ Navigation bar to move between pages  
+- ✅ Contact form with **JavaScript validation**  
+- ✅ Projects page showcasing completed work  
+- ✅ Services page listing offerings  
+- ✅ Clean and semantic HTML5 structure  
+- ✅ Styled with CSS3 (colors, layout, typography)  
+- ✅ Deployed online for easy access  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** for structure  
+- **CSS3** for styling & responsiveness  
+- **JavaScript** for interactivity  
+- **Git & GitHub** for version control  
+- **GitHub Pages / Netlify / Vercel** for deployment  
+
+---
+
+## 🚀 Live Demo
+🔗 [Click here to view the live website](#)  
+*(Replace `#` with your deployed link once live)*
+
+---
+
+## 📂 Project Structure
